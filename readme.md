@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3/project/018e710b-5add-48b2-b73e-ee27792ecb3d.svg)](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3/project/018e710b-5add-48b2-b73e-ee27792ecb3d)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElluIFX&theme=material-palenight&hide_border=true&border_radius=2&date_format=%5BY.%5Dn.j&mode=weekly&card_width=680)](https://git.io/streak-stats)
-
+---
 <!-- ![x](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElluIFX&theme=material_palenight) -->
 
 ![x](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElluIFX&theme=material_palenight)
