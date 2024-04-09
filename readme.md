@@ -5,7 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3/project/018e710b-5add-48b2-b73e-ee27792ecb3d.svg)](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3/project/018e710b-5add-48b2-b73e-ee27792ecb3d)
+[![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3.svg)](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElluIFX&theme=material-palenight&hide_border=true&border_radius=2&date_format=%5BY.%5Dn.j&mode=weekly&card_width=680)](https://git.io/streak-stats)
 
