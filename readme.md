@@ -48,7 +48,7 @@
 ![x](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=fff)
 ![x](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=fff)
 
-## Platforms and Hardwares
+## Platforms and Hardware
 
 ![x](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=fff)
 ![x](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)
