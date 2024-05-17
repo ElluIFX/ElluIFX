@@ -1,5 +1,5 @@
 
-# Welcome, here is ElluIFX
+# `Ellu@PRTS >` echo "Ciallo～(∠・ω< )⌒☆"
 
 <a href="https://komarev.com/ghpvc/?username=ElluIFX">
   <img align="right" src="https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -13,20 +13,7 @@
 
 ![x](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElluIFX&theme=material_palenight)
 ![x](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElluIFX&theme=material_palenight&utcOffset=8)
-<!--
-## About Me
 
-- 🌱 An electrical engineering student
-- 🌐 Chinese and English
-
-## Interests
-
-- 💡 Edge Intelligence
-- ⚙️ Embedded Systems
-- 🔌 Electronics
-- 🤖 Robotics and Drones
-- 📷 Computer Vision
--->
 ## Languages and Frameworks
 
 ![x](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
