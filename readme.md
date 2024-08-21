@@ -1,6 +1,6 @@
 # Ciallo～(∠・ω< )⌒☆
 
-> `ellu@prts >` echo "Ciallo～(∠・ω< )⌒☆" > [/etc/motd](https://rin.ellu.tech/)
+> `ellu@prts >` echo "Ciallo～(∠・ω< )⌒☆" > [/etc/motd](https://ellu.tech/)
 
 <a href="https://komarev.com/ghpvc/?username=ElluIFX">
   <img align="right" src="https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
