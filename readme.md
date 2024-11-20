@@ -2,11 +2,8 @@
 
 > `ellu@prts >` echo "Ciallo～(∠・ω< )⌒☆" > [/etc/motd](https://ellu.tech/)
 
-<a href="https://komarev.com/ghpvc/?username=ElluIFX">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
-</a>
-
 [![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3.svg?style=for-the-badge)](https://wakatime.com/@018e7109-ff5f-4c7d-bf36-426f6493e4d3)
+[![Profile visitor](https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ElluIFX)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElluIFX&theme=material-palenight&hide_border=true&border_radius=2&date_format=%5BY.%5Dn.j&mode=weekly&card_width=680)](https://git.io/streak-stats)
 
