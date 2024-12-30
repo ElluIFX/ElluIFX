@@ -1,8 +1,9 @@
 # Ciallo～(∠・ω< )⌒☆
 
 > `ellu@prts >` echo "Ciallo～(∠・ω< )⌒☆" > [/etc/motd](https://ellu.tech/)
-
-[![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3.svg?style=for-the-badge)](https://wakatime.com/@018e7109-ff5f-4c7d-bf36-426f6493e4d3)
+> 
+[![wakatime](https://img.shields.io/endpoint?url=https://wakapi.hk.ellu.tech/api/compat/shields/v1/ellu/interval:all_time/&label=Wakatime&color=blue&style=for-the-badge)](https://wakatime.com/@018e7109-ff5f-4c7d-bf36-426f6493e4d3)
+<!-- [![wakatime](https://wakatime.com/badge/user/018e7109-ff5f-4c7d-bf36-426f6493e4d3.svg?style=for-the-badge)](https://wakatime.com/@018e7109-ff5f-4c7d-bf36-426f6493e4d3) -->
 [![Profile visitor](https://komarev.com/ghpvc/?username=ElluIFX&label=Visitors&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=ElluIFX)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElluIFX&theme=material-palenight&hide_border=true&border_radius=2&date_format=%5BY.%5Dn.j&mode=weekly&card_width=680)](https://git.io/streak-stats)
@@ -42,3 +43,7 @@
 ![x](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=fff)
 ![x](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=fff)
 ![x](https://img.shields.io/badge/Risc_V-283272?style=for-the-badge&logo=riscv&logoColor=fff)
+
+## Waka!
+
+![x](https://github-readme-stats.vercel.app/api/wakatime?username=ellu&api_domain=wakapi.hk.ellu.tech&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
