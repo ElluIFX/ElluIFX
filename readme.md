@@ -44,6 +44,6 @@
 ![x](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=fff)
 ![x](https://img.shields.io/badge/Risc_V-283272?style=for-the-badge&logo=riscv&logoColor=fff)
 
-## Waka!
-
-![x](https://github-readme-stats.vercel.app/api/wakatime?username=ellu&api_domain=wakapi.hk.ellu.tech&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+<!--## Waka!
+![x:100](https://github-readme-stats.vercel.app/api/wakatime?username=ellu&api_domain=wakapi.hk.ellu.tech&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
+-->
